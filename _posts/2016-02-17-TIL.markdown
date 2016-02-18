@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Today I Learned"
+date:   2016-02-17 10:20:57 +0100
+categories: til github
+---
+A few days ago I saw a post on [Hacker News](https://news.ycombinator.com/).
+
+[![Show HN]({{ site.url }}/assets/show-hn-til.png)](https://news.ycombinator.com/item?id=11068902)
+
+A [guy](https://github.com/jbranchaud/) had been writing daily TILs for a year and published them to a [GitHub repository](https://github.com/jbranchaud/til).
+
+The post seems to have gotten some positive traction and I was inspired to create my own [TIL-repository](https://github.com/johanhammar/til). Feel free to fork or open a PR if you find anything that can be improved. 
+
+
+
+
