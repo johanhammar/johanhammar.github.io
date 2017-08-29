@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Installing Node.js on a Raspberry Pi 3"
+title:  "How to configure a switch in Domoticz"
 date:   2017-08-28 20:55:00 +0100
 categories: raspberry pi automation domoticz 433mhz
 ---
