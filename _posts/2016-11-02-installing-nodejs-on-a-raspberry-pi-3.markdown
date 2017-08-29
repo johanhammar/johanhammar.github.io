@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing Node.js on a Raspberry Pi 3"
-date:   2017-11-02 20:55:00 +0100
+date:   2016-11-02 20:55:00 +0100
 categories: raspberry linux nodejs raspbian
 ---
 Recently I bought a new Raspberry Pi 3 and wanted to run a few Node.js applications on it. Unfortunately the Node.js version that is available on [Raspbian](https://www.raspbian.org/) is quite old.
