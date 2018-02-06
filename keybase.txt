@@ -1,5 +1,6 @@
 ---
-permalink: /.well-known/keybase.txt
+layout: none
+permalink: /keybase.txt
 ---
 ==================================================================
 https://keybase.io/johanhammar
