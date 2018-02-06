@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/johanhammar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.johanhammar.se
+  * I am johanhammar (https://keybase.io/johanhammar) on keybase.
+  * I have a public key ASBJ7GmbZ4rZa0SnrxMeun1CNv6a7DwIQc-l8SbYSY0Wuwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012044a04c3fe40c53aebd2a1f9e71c4c3778f84b9bb1629bceb0dc8375736133c2b0a",
+      "host": "keybase.io",
+      "kid": "012049ec699b678ad96b44a7af131eba7d4236fe9aec3c0841cfa5f126d8498d16bb0a",
+      "uid": "83c06f990f2ec71e1337d8d98f07df19",
+      "username": "johanhammar"
+    },
+    "merkle_root": {
+      "ctime": 1517912660,
+      "hash": "05418fef2d2cff96cd31f6361dd7709da6576149f5a77b08ca52c9332b41c9a494fa2354ab7009b9918af0939dc3661b5096212d1c84054bee5534e6087d6773",
+      "hash_meta": "3cebbe2d4587dfe11521f63fe7548874993881c8edf5e59ebad9c3c4cf3700de",
+      "seqno": 2040118
+    },
+    "service": {
+      "hostname": "www.johanhammar.se",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.39"
+  },
+  "ctime": 1517912703,
+  "expire_in": 504576000,
+  "prev": "28ccdb2b1c49ec037de0a1c2dbf8e6d92fccc83ab71ffca13b8a05576472bc95",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSexpm2eK2WtEp68THrp9Qjb+muw8CEHPpfEm2EmNFrsKp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDRhMDRjM2ZlNDBjNTNhZWJkMmExZjllNzFjNGMzNzc4Zjg0YjliYjE2MjliY2ViMGRjODM3NTczNjEzM2MyYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDllYzY5OWI2NzhhZDk2YjQ0YTdhZjEzMWViYTdkNDIzNmZlOWFlYzNjMDg0MWNmYTVmMTI2ZDg0OThkMTZiYjBhIiwidWlkIjoiODNjMDZmOTkwZjJlYzcxZTEzMzdkOGQ5OGYwN2RmMTkiLCJ1c2VybmFtZSI6ImpvaGFuaGFtbWFyIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE3OTEyNjYwLCJoYXNoIjoiMDU0MThmZWYyZDJjZmY5NmNkMzFmNjM2MWRkNzcwOWRhNjU3NjE0OWY1YTc3YjA4Y2E1MmM5MzMyYjQxYzlhNDk0ZmEyMzU0YWI3MDA5Yjk5MThhZjA5MzlkYzM2NjFiNTA5NjIxMmQxYzg0MDU0YmVlNTUzNGU2MDg3ZDY3NzMiLCJoYXNoX21ldGEiOiIzY2ViYmUyZDQ1ODdkZmUxMTUyMWY2M2ZlNzU0ODg3NDk5Mzg4MWM4ZWRmNWU1OWViYWQ5YzNjNGNmMzcwMGRlIiwic2Vxbm8iOjIwNDAxMTh9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmpvaGFuaGFtbWFyLnNlIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOSJ9LCJjdGltZSI6MTUxNzkxMjcwMywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIyOGNjZGIyYjFjNDllYzAzN2RlMGExYzJkYmY4ZTZkOTJmY2NjODNhYjcxZmZjYTEzYjhhMDU1NzY0NzJiYzk1Iiwic2Vxbm8iOjExLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQIMPOyIXoSXQKyzUf4HPa9O/ho5tBeqpCHb0MRaGcOrQsb5Zl078/GFPc//JtLWpRDgJGi6J8Lx8sHqv4hg31gqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCASj0OpSsjzm064dN3jslkTeM08/VFlke218czOBG7zGqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/johanhammar
+
+==================================================================
