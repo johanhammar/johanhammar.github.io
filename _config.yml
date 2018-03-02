@@ -10,9 +10,18 @@ title: Johan Hammar
 email: johan.hammar@gmail.com
 description: Development notes
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.johanhammar.se" # the base hostname & protocol for your site
+url: "https://www.johanhammar.se"
+enforce_ssl: "www.johanhammar.se"
 twitter_username: johanh
 github_username:  johanhammar
+
+author:
+    name: 'Johan Hammar'
+    country: Sweden
+    username:
+        twitter: johanh
+        linkedin: johanhammar
+        github: johanhammar
 
 # Build settings
 markdown: kramdown
