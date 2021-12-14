@@ -1,0 +1,14 @@
+I"¼<p>Setting a static ip on your Raspberry Pi can be tricky, hereâ€™s what you need to know.</p>
+
+<p>The easiest way to set a static ip is to add the configuration in <code class="language-plaintext highlighter-rouge">/etc/dhcpcd.conf</code>. Edit the file in your favorite editor and scroll down to the bottom of the file.</p>
+
+<p>Add the following configuration:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>interface eth0
+static ip_address=192.168.1.10/24
+static routers=192.168.1.1
+static domain_name_servers=192.168.1.1
+</code></pre></div></div>
+
+<p>Make sure the interface and the network configuration matches your requirements.</p>
+:ET

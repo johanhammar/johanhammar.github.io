@@ -1,0 +1,35 @@
+I"3<p>I have an old Synology DS213j NAS that I want to use for DynDNS. Now Synology does support DDNS but does not come with my DynDNS provider, <a href="https://www.binero.se">Binero</a>, preconfigured. Follow these easy steps to add support for Binero DynDNS in your Synology NAS</p>
+
+<h2 id="prerequsities---verify-that-dyndns-is-correctly-setup">Prerequsities - Verify that DynDNS is correctly setup.</h2>
+
+<ul>
+  <li>Use curl or a browser and call <code class="language-plaintext highlighter-rouge">https://EMAIL:PASSWORD@dyndns.binero.se/nic/update?hostname=HOST&amp;myip=IP</code> make sure you set EMAIL, PASSWORD, HOST and IP</li>
+  <li>You should get a response that says good or similar.</li>
+</ul>
+
+<h2 id="add-binero-dyndns-to-synology">Add Binero DynDNS to Synology</h2>
+
+<ul>
+  <li>
+    <p>Use SSH and log into your NAS.</p>
+  </li>
+  <li>
+    <p>Edit <code class="language-plaintext highlighter-rouge">/etc.defaults/ddns_provider.conf</code> and add the this block at the end of the file</p>
+  </li>
+</ul>
+
+<pre>
+[Binero]
+  modulepath=DynDNS
+  queryurl=dyndns.binero.se/nic/update?hostname=__HOSTNAME__&amp;myip=__MYIP__
+</pre>
+
+<ul>
+  <li>
+    <p>Now log into your NAS and open <code class="language-plaintext highlighter-rouge">Control Panel -&gt; External Access</code> and click on Add in the DDNS tab. Binero should now be in the list of Service Providers</p>
+  </li>
+  <li>
+    <p>You’re all set up! You should see your service provider and hostname in the list and status should be <code class="language-plaintext highlighter-rouge">Normal</code></p>
+  </li>
+</ul>
+:ET
