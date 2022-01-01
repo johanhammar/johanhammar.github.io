@@ -171,7 +171,11 @@
     padding: $spacing-unit 0;
 }
 
-.page-heading {
+.page-heading h1 {
+    font-size: 22px;
+}
+
+.page-heading h2 {
     font-size: 20px;
 }
 
