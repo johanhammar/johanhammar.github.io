@@ -8,9 +8,9 @@ I have always enjoyed reading about other peoples setups. Sites like [/uses](htt
 
 ## Hardware
 
-* Dell XPX "13 9370 running Ubuntu 21.04
+* Dell XPX "13 9370 running Ubuntu 22.10
 
-* Mac Mini 2010 Running Ubuntu Server 20.04
+* Mac Mini 2010 Running Ubuntu Server 22.04
 
 * Marshall Major II Bluetooth headphones
 
@@ -37,3 +37,4 @@ I have always enjoyed reading about other peoples setups. Sites like [/uses](htt
 ## Dotfiles
 
 * My dotfiles can be found at [https://github.com/johanhammar/dotfiles/](https://github.com/johanhammar/dotfiles/)
+
