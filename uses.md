@@ -16,7 +16,7 @@ I have always enjoyed reading about other peoples setups. Sites like [/uses](htt
 
 * [Desire2 Laptop Stand](https://www.amazon.com/Desire2-Ergonomic-Aluminum-Detachable-Compatible/dp/B07P7Q2B55)
 
-* [Keychron K2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard) with Gateron Brown Switches
+* [Keychron K2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard) with Gateron Brown Switches and a [Keychron K3 Ultra-slim](https://www.keychron.com/collections/keychron-nordic-iso-keyboards/products/keychron-k3-ultra-slim-wireless-mechanical-keyboard-nordic-iso-layout-version-2) with Low Profile Gateron Mechanical Red Switches
 
 * [Logitech MX Master 2s](https://www.logitech.com/en-us/eol/mx-master-2s-mouse.910-005131.html) and a smaller [Logitech G305](https://www.logitechg.com/en-us/products/gaming-mice/g305-lightspeed-wireless-gaming-mouse.910-005289.html) when travelling
 
