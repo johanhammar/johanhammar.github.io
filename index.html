@@ -4,16 +4,19 @@ layout: default
 
 <div class="home">
 
-  
   <h1 class="page-heading">:wave: Hello </h1>
 
   <div class="">
-      <p>I'm Johan Hammar, a software engineer from Sweden.</p>
+    <p>I'm Johan Hammar, a software engineer from Sweden.</p>
 
     <p>Follow me 
 
     {% if site.twitter_username %}
     <a href="https://twitter.com/{{ site.twitter_username }}"><span class="icon icon--twitter">{% include twitter.svg %}</span></a>
+    {% endif %}
+
+    {% if site.mastodon_username %}
+    <a rel="me" href="https://mastodon.se/{{ site.mastodon_username }}"><span class="icon icon--mastodon">{% include mastodon.svg %}</span></a>
     {% endif %}
 
     {% if site.linkedin_username %}
@@ -33,8 +36,6 @@ layout: default
     {% endif %}
     </p>
 
-    </p>
-
   </div>
 
   <h2 class="page-heading">Posts</h2>
@@ -50,5 +51,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+
+  
 
 </div>

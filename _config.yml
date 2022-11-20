@@ -13,6 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.johanhammar.se"
 enforce_ssl: "www.johanhammar.se"
 twitter_username: johanh
+mastodon_username: "@johanhammar"
 github_username:  johanhammar
 linkedin_username: johanhammar
 goodreads_username: johanhammar
