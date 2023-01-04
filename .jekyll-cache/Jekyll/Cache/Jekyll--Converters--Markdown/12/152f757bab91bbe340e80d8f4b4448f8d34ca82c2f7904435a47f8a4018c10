@@ -1,5 +1,0 @@
-I"'<p>Here’s a nice trick I saw the other day. Run <code class="language-plaintext highlighter-rouge">$ curl -4 wttr.in/Göteborg</code> and you’ll get a nice looking forecast in the terminal.</p>
-
-<p><img src="http://localhost:4000/assets/wttr.in-göteborg.png" alt="Weather Forecast" /></p>
-
-:ET
