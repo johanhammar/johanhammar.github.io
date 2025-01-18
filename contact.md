@@ -13,7 +13,7 @@ permalink: /contact/
 
 <h2>LinkedIn</h2>
 <p>
-  <a href="https://www.linkedin.com/in/tobbelundberg/">https://www.linkedin.com/in/tobbelundberg/</a>
+  <a href="https://www.linkedin.com/in/johanhammar/">https://www.linkedin.com/in/johanhammar/</a>
 </p>
 
 <h2>GitHub</h2>
